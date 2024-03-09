@@ -87,7 +87,7 @@ a:active{
 }
 
 .footer{
-    padding: var(--section-footer-align);
+    padding: var(--footer-padding);
 }
 
 :root{
