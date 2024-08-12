@@ -2,7 +2,7 @@
 
 Welcome to the Responsive design project! This project focuses on building a fully responsive website that adapts seamlessly to different screen sizes and devices. By working through this project, you will gain hands-on experience with essential web development concepts such as mobile-first design, media queries, and responsive layout techniques.
 
-![Screenshot of the last task of the project](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/2/7a38d40512c0c6edb211.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240812%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240812T105333Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3e467dc1867b0a49f644b11e1ecb109dbc1aa38b1c6f38f6bd09bfa1b3f59497)
+![Screenshot of the last task of the project](https://ibb.co/wYVPmw1)
 
 Table of Contents
 - Overview
