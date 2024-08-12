@@ -48,7 +48,7 @@ responsive-design/
 │
 ├── index.html          # Main HTML files
 ├── styles.css          # Main CSS files
-├── ressources/             # Image assets
+├── images/             # Image assets
 │   └── img1.png
 │   └── img2.png
 │   └── ...
