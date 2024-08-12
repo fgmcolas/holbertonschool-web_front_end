@@ -46,10 +46,12 @@ The project files are organized as follows:
 ```
 responsive-design/
 │
-├── index.html          # Main HTML file
-├── css/
-│   └── styles.css      # Main CSS file
-├── images/             # Image assets
+├── index.html          # Main HTML files
+├── styles.css          # Main CSS files
+├── ressources/             # Image assets
+│   └── img1.png
+│   └── img2.png
+│   └── ...
 └── README.md           # Project documentation
 ```
 
