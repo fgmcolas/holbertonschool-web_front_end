@@ -2,7 +2,7 @@
 
 Welcome to the Responsive design project! This project focuses on building a fully responsive website that adapts seamlessly to different screen sizes and devices. By working through this project, you will gain hands-on experience with essential web development concepts such as mobile-first design, media queries, and responsive layout techniques.
 
-![Screenshot of the last task of the project](https://ibb.co/wYVPmw1)
+![Screenshot of the last task of the project](https://i.ibb.co/6NzTC15/7a38d40512c0c6edb211.png)
 
 Table of Contents
 - Overview
